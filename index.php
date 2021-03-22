@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>コラボレーター登録の練習</h1>
-    <h2>Murata</h2>
+    <h2>Nakagawa</h2>
 </body>
 </html>
