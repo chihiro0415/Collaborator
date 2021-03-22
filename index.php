@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>コラボレーター登録の練習</h1>
+
     <h2>Namekawa Taisei</h2>
 </body>
 </html>
